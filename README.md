@@ -1,5 +1,31 @@
 # 💫 About Me:
-🎯 I’m currently working on<br>Sharpening my skills in software development, problem-solving, and building a strong foundation in core computer science concepts.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, learning groups, or innovative ideas where I can contribute and grow alongside others.<br><br>🧠 I’m looking for help with<br>Understanding advanced data structures & algorithms, writing clean and efficient code, and exploring best practices in Machine Learning and Artificial Intelligence.<br><br>🌱 I’m currently learning<br>C++, Python, React, Git & GitHub, and diving deeper into Artificial Intelligence and machine learning fundamentals.<br><br>💬 Ask me about<br>Coding practices, debugging tips, learning resources, or anything tech-related that you're curious about!<br><br>⚡ Fun fact<br>I love solving puzzles and challenges — whether it's a coding problem or a brain teaser, I'm always up for it!
+🎯 I’m currently working on<br>
+Sharpening my software development skills by building full-stack web applications and working on innovative projects that combine core computer science concepts with real-world impact.<br><br>
+
+🤝 I’m looking to collaborate on<br>
+Open-source contributions, creative group projects, or anything that involves building useful tools, exploring AI/ML applications, or solving real-life problems with tech.<br><br>
+
+🧠 I’m looking for help with<br>
+Deepening my understanding of advanced data structures and algorithms, writing clean and scalable code, and adopting best practices in machine learning and artificial intelligence.<br><br>
+
+🌱 I’m currently learning<br>
+C++, Python, React, Git & GitHub, and strengthening my knowledge in backend development with PHP, MySQL, and server-side scripting, while diving deeper into AI/ML concepts.<br><br>
+
+💼 Projects I've worked on include<br>
+LogiTrack: A route optimization tool that reduced delivery costs by 15%<br>
+EEG Gaming Interface: Used Arduino + Python to play games using brain signals<br>
+Luxe Beauty & ScentAura: Full-featured e-commerce platforms<br>
+Graph Theory Visualizer: Animation site for graph algorithms like BFS, DFS, Dijkstra<br>
+Deepfake Detection: ML-powered tool with 80% detection accuracy<br>
+VaniArtistry: E-commerce site for art, complete with filtering & payment<br>
+Satvita Foods: WordPress-based store offering healthy dehydrated meals<br><br>
+
+💬 Ask me about<br>
+Frontend and backend development, debugging techniques, project structuring, clean code practices, or anything about turning ideas into functional software.<br><br>
+
+⚡ Fun fact<br>
+Whether it's a challenging coding problem or a tricky puzzle, I thrive on solving them with creativity and logic — puzzles are my favorite way to unwind!
+
 
 
 ## 🌐 Socials:
