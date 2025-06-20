@@ -1,4 +1,3 @@
-# 💫 About Me:
 🎯 I’m currently working on<br>
 Sharpening my software development skills by building full-stack web applications and working on innovative projects that combine core computer science concepts with real-world impact.<br><br>
 
@@ -12,21 +11,21 @@ Deepening my understanding of advanced data structures and algorithms, writing c
 C++, Python, React, Git & GitHub, and strengthening my knowledge in backend development with PHP, MySQL, and server-side scripting, while diving deeper into AI/ML concepts.<br><br>
 
 💼 Projects I've worked on include<br>
-LogiTrack: A route optimization tool that reduced delivery costs by 15%<br>
-EEG Gaming Interface: Used Arduino + Python to play games using brain signals<br>
-Luxe Beauty & ScentAura: Full-featured e-commerce platforms<br>
-Graph Theory Visualizer: Animation site for graph algorithms like BFS, DFS, Dijkstra<br>
-Deepfake Detection: ML-powered tool with 80% detection accuracy<br>
-VaniArtistry: E-commerce site for art, complete with filtering & payment<br>
-Satvita Foods: WordPress-based store offering healthy dehydrated meals<br><br>
+<ul>
+  <li><strong>LogiTrack</strong>: A route optimization tool that reduced delivery costs by 15%.</li>
+  <li><strong>EEG Gaming Interface</strong>: Used Arduino + Python to play games using brain signals.</li>
+  <li><strong>Luxe Beauty & ScentAura</strong>: Full-featured e-commerce platforms with payment gateways, filters, and cart systems.</li>
+  <li><strong>Graph Theory Visualizer</strong>: An animation site for algorithms like BFS, DFS, Dijkstra, etc.</li>
+  <li><strong>Deepfake Detection</strong>: Machine Learning-powered web app that detects manipulated media with 80% accuracy.</li>
+  <li><strong>VaniArtistry</strong>: An e-commerce art store with product filters, cart, and secure checkout.</li>
+  <li><strong>Satvita Foods</strong>: A WordPress-based food store featuring a WooCommerce shopping experience for dehydrated vegetarian meals.</li>
+</ul><br>
 
 💬 Ask me about<br>
 Frontend and backend development, debugging techniques, project structuring, clean code practices, or anything about turning ideas into functional software.<br><br>
 
 ⚡ Fun fact<br>
 Whether it's a challenging coding problem or a tricky puzzle, I thrive on solving them with creativity and logic — puzzles are my favorite way to unwind!
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/28M6u8QG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hetansh_here) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetansh-shah-581732239/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hetanshshah2111@gmail.com) 
